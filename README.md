@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 # **Awesome DOOM Quickstart for New Gamers**
 
 ![](https://pics.spark-in.me/upload/4cf6e7aa0ff44be3713aaff16ce5cef5.jpg)
