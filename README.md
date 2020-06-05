@@ -6,7 +6,7 @@
 
 There are literally decades worth of forums, mod websites, communities. Recently there also have appeared great "retro" gaming channels (retro is a bit misleading, because some DOOM mods are as good fun as some AAA-titles) on YouTube.
 
-But many people, who have not played DOOM originally, do not know about all this. For example - fun fact - a game that was released in 1993 is still alive and it has one of the **most active modding communities ever**. I would argue that games like Elder Scrolls, Unreal Tournament or Warcraft (first things that come to mind) also had huge communities, but I would not really say that all of them stood the test of time. Bute people believe that DOOM is something dead, generic, archaic, outdated akin to tetris or pong. It is not not!
+But many people, who have not played DOOM originally, do not know about all this. For example - fun fact - a game that was released in 1993 is still alive and it has one of the **most active modding communities ever**. I would argue that games like Elder Scrolls, Unreal Tournament or Warcraft (first things that come to mind) also had huge communities, but I would not really say that all of them stood the test of time. But people believe that DOOM is something dead, generic, archaic, outdated akin to tetris or pong. It is not not!
 
 TLDR - DOOM + 20 years of mods = best game ever, still alive. Do not believe me? Being an active gamer in the past, I played only a handful of games in 2019 - some reimagined old Heroes III games (Horn of the Abyss), DOOM 2016, DOOM megawad Eviternity, a bit of RDR2 - and believe it or not Eviternity was the best game overall in terms of **game experience and design**.
 
@@ -49,49 +49,49 @@ This is very brief, go to wiki or something if you need exact historic details a
 I believe that to really experience DOOM, you need to play the original games in this order:
 
 - (0) DOOM Shareware (1993-ish) - first episode done mostly by John Romero (**included in Ultimate DOOM**);
-- (1) Full 3 episodes of DOOM (1993-ish) - first commercial relese ((**included in Ultimate DOOM(**);
+- (1) Full 3 episodes of DOOM (1993-ish) - first commercial relese (**included in Ultimate DOOM**);
 - (2) DOOM II (1994-ish) - 32 levels, arguably the best original game, a bit boring last portion of levels, yes with super shoutgun;
 - (3) Ultimate DOOM (1995-ish) - 3 episodes + 1 new episode with a difficulty spike (Thy Flesh Consumed) and 3-4 nice maps;
 - (4) E1M8b by John Romero (2016). A replacement for E1M8, which sucked due to being an ending to a shareware release. Play immediately after you beat E1M8 and see for yourself. It even won a Cacoward!;
-- (4) Sigil (2019) - 5th canon episode done by Romero. 2 awesome soundtracks (one by Buckethead). Blows the original 3-4 DOOM episodes out of the water, but was met with no universal acclaim mostly because it used only DOOM assets and decades of mods kind of raised the bar. Just consider it a 5th episode;
+- (4) Sigil (2019) - 5th canon episode done by Romero. 2 awesome soundtracks (one by Buckethead!). Blows the original 3-4 DOOM episodes out of the water, but was met with no universal acclaim mostly because it used only DOOM assets and decades of mods kind of raised the bar. Just consider it a 5th episode;
 - (4) Master Levels for Doom II - 20 + 1 (secret) levels for DOOM II. Tough as nails compared to original games;
 - (5) Final DOOM (1996-ish) - 32 + 32 levels - TNT: Evilution от Team TNT и The Plutonia Experiment. Made by modders, released by ID. TNT is notorious for being evil, cruel and ball-busting at times. Also lots of chaingunners, archviles and revenants. Plutonia is kind of meh for me, but it was an important milestone nevertheless;
 
 In my opinion you need this vanilla experience to experience the OG games first-hand and refine your pallete for more ball-busting DOOM games.
 
 Also please do not tell me that Sigil sucks, it fits nicely into the OG episodes and had awesome design and music. Also this presents a nice progression of ealy design and difficulty spikes, with touches of modern map-making.
-Yes, Sigil is not Sunlust, but it does not try to be.
+Yes, Sigil is not Sunlust, but it does not need to be.
 
 ### **What to Play Next?**
 
 DOOM world has a very nice article dedicated to 25 years of DOOM modding. It is awesome, seriously - read it - https://www.doomworld.com/25years/the-roots-of-doom-mapping/chapter01/!
 
-Well or you can just go here - https://www.doomworld.com/cacowards/. There are literally tens of thousands of WADs, megaWADs, mods, etc etc
-Or maybe go to Google / YouTube and just find some awesome mods.
+Well or you can just go here - https://www.doomworld.com/cacowards/. There are literally tens of thousands of WADs, megaWADs, mods, etc etc. Or maybe go to Google / YouTube and just find some awesome mods.
 
 This is overwhelming. And to be frank, I played the OG DOOM games A LOT, but I have discovered the awesome DOOM modding scene only a couple of years ago.
-But I guess you would just like a short-list, do you?
 
-Note that Cacowards strive to be fair, i.e. the best award can be given to a whopping MegaWAD, one map or even to a total conversion mod. This is cool, but in my opinion there are some community made DOOM games that are more equal than others. Arguably, these are just masterpieces, 10/10 games or epic milestones. See for yourself, develop your taste!
+**But I guess you would just like a short-list, do you?**
+
+Note that Cacowards strive to be fair, i.e. the best award can be given to a whopping 32 level MegaWAD with unique textures, monsters and new music or to one map or even to a total conversion mod. This is cool, but in my opinion there are some community made DOOM games that are just more equal than others. Arguably, these are just masterpieces, 10/10 games or epic milestones. See for yourself, develop your taste!
 
 - Eviternity (2019) - one of the best PC games I have ever played, period. Vastly better than original DOOM games, stunning visuals, novel gameplay, etc. No modern games even come close to this thing made a small community of modders + Dragonfly;
 - Sunlust (2015) - one of the hardest and most beautiful MegaWADs out there. Equally evil / punishing as well as visually stunning;
-- Back To Saturn X Episode 1 (2012) and Episode 2 (2014). Technically impressive and detailed, though a bit on the boring side;
-- Hell Revealed (1997) Hell Revealed II (2003) - awesome, sometimes ball-busting old school megaWADs. A bit boring architecture, a bit gimmicky;
+- Back To Saturn X Episode 1 (2012) and Episode 2 (2014). Technically impressive and detailed, though a bit on the boring side (they repeat the same stuff over and over again, but first levels are very cool);
+- Hell Revealed (1997) Hell Revealed II (2003) - awesome, sometimes ball-busting old school megaWADs. A bit plain and boring architecture (after playing Sunlust), a bit gimmicky;
 
-Note that I do not really include any GZDoom compatible mods, total game conversion mods, 
+Note that I do not really include any GZDoom compatible mods, total game conversion mods, exploration oriented WADs. I believe these WADs are the DOOM experience at its finest. 
 
 ## **Proper Way to Enjoy Modern DOOM**
 
-TLDR - there is [GZDoom](https://github.com/coelckers/gzdoom), which is the default go-to option to play more modern [mods](https://zdoom.org/spotlight). But if your jump on these games right on, or even if you try something like Brutal DOOM or Project Brutality from the get go, you most likely will spoit your taste. These games are awesome, but they are not DOOM.
+TLDR - there is [GZDoom](https://github.com/coelckers/gzdoom), which is the default go-to option to play more modern [mods](https://zdoom.org/spotlight). But if your jump on these games right on, or even if you try something like Brutal DOOM or Project Brutality from the get go, you most likely will spoil your taste. These games are awesome, but they are not vanilla DOOM.
 
 Purists may argue until they bleed from their assholes which [vanilla mod is better](https://doom.fandom.com/wiki/Comparison_of_Doom_source_ports), but I like PrBoom+ for several plain reasons:
 
-- It is cross-platform;
+- It is cross-platform (if you want to compile shit on Linux ofc);
 - It is relatively fresh - latest build 2.5.2 was released in 2017;
-- It is very stable, smooth and it can handle maps with thousands of enemies;
-- It can be launched via CLI, and what is even more important - using power shell in Windows (or a WLS) - you can launch it using the same commands on PC / Mac / Linux! Isn't this great?
-- It has nice docs in the `usage.txt` file'
+- It is very stable, smooth and it can handle maps with thousands of enemies (or tens of thousands lol);
+- It can be launched via CLI, and what is even more important - using power shell in Windows (or a WLS) - you can launch it using the same-ish commands on PC / Mac / Linux! Isn't this great?;
+- It has nice docs in the `usage.txt` file';
 
 If you want to be nerdy about your source port, there are videos on the topic:
 
@@ -106,7 +106,7 @@ First you need to get the original DOOM and DOOM II WAD files. Do not buy the ne
 Also there is a hack - DOOM Eternal comes bundled with some of these WAD files. Also there are [compilations](https://store.steampowered.com/sub/18397/) available on Steam.
 
 (1)
-Then you need to download PrBoom+. I gues that 95% of people will be on Windows, so I will show how to do it via PowerShell (if you are on Linux you know this already):
+Then you need to download PrBoom+. I gues that 95% of people will be on Windows, so I will show how to do it via PowerShell (if you are on Linux you know what to do - just jump to packaged instructions directly):
 
 ```bash
 # https://sourceforge.net/projects/prboom-plus/files/prboom-plus/2.5.1.4/
@@ -158,7 +158,7 @@ or
 Also some useful flags can be found in bundled readme files. I mostly use these flags:
 
 - `-file` - this is just your was file(s);
-- `-warp` teleports you to the N-the level of the modpack with a pistol start;
+- `-warp` teleports you to the N-th level of the modpack with a pistol start;
 - `-skill` - 4 is UV, all you need to know;
 - `-solo-net`- some older WADs have extra enemies and challenge designed for coop mode. Sometimes it is just too much, sometimes this is a fair challenge;
-- `-fast` - this enables fast monsters. This is usually seen in nightmare mode, but for extra challenge you can play the first OG episodes with this;
+- `-fast` - this enables fast monsters. This is usually seen in nightmare mode, but for extra fun and challenge you can play the first OG episodes with this;
